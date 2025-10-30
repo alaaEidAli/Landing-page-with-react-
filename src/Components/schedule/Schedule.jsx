@@ -1,5 +1,5 @@
 import React from 'react'
-import statsWeb from '../../assets/stats.Webp';
+import statsWeb from '../../assets/stats.webp';
 
 const Schedule = () => {
   return (
