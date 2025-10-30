@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Company.css"
+import "./company.css"
 import slack from "../../assets/slack.png"
 import amazon from "../../assets/amazon.png"
 import woocommerce from "../../assets/woocommerce.png"
