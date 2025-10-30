@@ -28,7 +28,8 @@ function Componay() {
             })
           }
         </div>
-        <div></div>
+        <p>
+          </p> 
     </div>
   )
 }
